@@ -118,29 +118,6 @@ El proyecto incluye workflows de GitHub Actions para:
 
 Los workflows se ejecutan automáticamente en cada push y pull request.
 
-## 📁 Estructura del Proyecto
-
-```
-.
-├── src/
-│   ├── index.js
-│   ├── config/
-│   ├── routes/
-│   ├── controllers/
-│   ├── models/
-│   └── utils/
-├── k8s/
-├── .github/
-│   └── workflows/
-├── drizzle/
-├── .env.example
-├── .eslintrc
-├── .prettierrc
-├── Dockerfile
-├── docker-compose.yml
-└── package.json
-```
-
 ## 🛠️ Desarrollo
 
 ### Antes de hacer commit
